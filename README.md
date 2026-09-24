@@ -35,18 +35,6 @@ Você precisa ter o **Python 3** instalado na sua máquina.
 
 Também é recomendado utilizar o [Visual Studio Code](https://code.visualstudio.com/) para visualizar e executar o projeto.
 
-### Rodando a aplicação
-
-```bash
-# Clone este repositório
-$ git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-
-# Acesse a pasta do projeto
-$ cd SEU-REPOSITORIO
-
-# Execute o programa
-$ python app.py
-```
 
 ### Exemplo de execução
 
