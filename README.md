@@ -60,14 +60,3 @@ A média final é: 7.50
 Status: APROVADO!
 ```
 
-## 👥 Contribuindo
-
-1. Faça um Fork do projeto
-2. Crie uma Branch para sua Feature (`git checkout -b feature/NovaFeature`)
-3. Faça o Commit das alterações (`git commit -m 'Adicionando nova feature'`)
-4. Faça o Push para a Branch (`git push origin feature/NovaFeature`)
-5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
